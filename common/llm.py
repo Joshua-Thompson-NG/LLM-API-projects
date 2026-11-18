@@ -1,0 +1,1 @@
+# loads .env, model names in one place
